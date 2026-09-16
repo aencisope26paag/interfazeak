@@ -1,0 +1,85 @@
+﻿using System.Text;
+using System.Windows;
+using System.Windows.Controls;
+using System.Windows.Data;
+using System.Windows.Documents;
+using System.Windows.Input;
+using System.Windows.Media;
+using System.Windows.Media.Imaging;
+using System.Windows.Navigation;
+using System.Windows.Shapes;
+
+namespace Esaldiak_kateatzea
+{
+    /// <summary>
+    /// Interaction logic for MainWindow.xaml
+    /// </summary>
+    public partial class MainWindow : Window
+    {
+        public MainWindow()
+        {
+            InitializeComponent();
+        }
+
+        private readonly StringBuilder _acc = new StringBuilder();
+
+        private void AppendAndAdvance(TextBox tb, Button current, Button next = null, bool enableBatu = false)
+        {
+            var text = tb.Text.Trim();
+            if (string.IsNullOrEmpty(text)) return;
+
+            if (_acc.Length > 0) _acc.Append(' ');
+            _acc.Append(text);
+
+            tb.Clear();
+            current.IsEnabled = false;
+            if (next != null) next.IsEnabled = true;
+            if (enableBatu && bt_batu != null) bt_batu.IsEnabled = true;
+        }
+
+        private void bt_esaldia1_Click(object sender, RoutedEventArgs e) =>
+            AppendAndAdvance(textbox_esaldia, bt_esaldia1, bt_esaldia2);
+
+        private void bt_esaldia2_Click(object sender, RoutedEventArgs e) =>
+            AppendAndAdvance(textbox_esaldia, bt_esaldia2, bt_esaldia3);
+
+        private void bt_esaldia3_Click(object sender, RoutedEventArgs e) =>
+            AppendAndAdvance(textbox_esaldia, bt_esaldia3, bt_esaldia4);
+
+        private void bt_esaldia4_Click(object sender, RoutedEventArgs e) =>
+            AppendAndAdvance(textbox_esaldia, bt_esaldia4, bt_esaldia5);
+
+        private void bt_esaldia5_Click(object sender, RoutedEventArgs e) =>
+            AppendAndAdvance(textbox_esaldia, bt_esaldia5, null, enableBatu: true);
+
+        private void bt_batu_Click(object sender, RoutedEventArgs e)
+        {
+            var result = _acc.ToString();
+            if (string.IsNullOrEmpty(result))
+            {
+                MessageBox.Show("Ez dago oraindik bateratzeko testurik.", "Batu", MessageBoxButton.OK, MessageBoxImage.Information);
+                return;
+            }
+
+            MessageBox.Show(result, "Katea", MessageBoxButton.OK, MessageBoxImage.Information);
+        }
+
+        private void bt_garbitu_Click(object sender, RoutedEventArgs e)
+        {
+            textbox_esaldia.Clear();
+            _acc.Clear();
+
+            if (bt_esaldia1 != null) bt_esaldia1.IsEnabled = true;
+            if (bt_esaldia2 != null) bt_esaldia2.IsEnabled = false;
+            if (bt_esaldia3 != null) bt_esaldia3.IsEnabled = false;
+            if (bt_esaldia4 != null) bt_esaldia4.IsEnabled = false;
+            if (bt_esaldia5 != null) bt_esaldia5.IsEnabled = false;
+            if (bt_batu != null) bt_batu.IsEnabled = false;
+        }
+
+        private void bt_irten_Click(object sender, RoutedEventArgs e)
+        {
+            Close();
+        }
+    }
+}

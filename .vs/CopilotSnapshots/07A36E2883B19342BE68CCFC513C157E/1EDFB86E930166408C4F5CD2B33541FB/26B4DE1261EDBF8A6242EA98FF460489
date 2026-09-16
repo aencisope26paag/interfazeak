@@ -1,0 +1,27 @@
+﻿<Window x:Class="Esaldiak_kateatzea.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Esaldiak_kateatzea"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="763*"/>
+            <ColumnDefinition Width="0*"/>
+            <ColumnDefinition Width="0*"/>
+            <ColumnDefinition Width="37*"/>
+        </Grid.ColumnDefinitions>
+        <TextBox x:Name="textbox_esaldia" HorizontalAlignment="Left" Height="38" Margin="176,63,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="448"/>
+        <Button x:Name="bt_esaldia1" Content="Esaldia 1" HorizontalAlignment="Left" Height="34" Margin="178,142,0,0" VerticalAlignment="Top" Width="124"/>
+        <Button x:Name="bt_batu" Content="Batu" IsEnabled="False" HorizontalAlignment="Left" Height="34" Margin="498,0,0,0" VerticalAlignment="Center" Width="126"/>
+        <Button x:Name="bt_esaldia5" Content="Esaldia 5" IsEnabled="False" HorizontalAlignment="Left" Height="34" VerticalAlignment="Center" Width="124" Margin="338,0,0,0"/>
+        <Button x:Name="bt_esaldia4" Content="Esaldia 4" IsEnabled="False" HorizontalAlignment="Left" Height="34" Margin="178,0,0,0" VerticalAlignment="Center" Width="124"/>
+        <Button x:Name="bt_esaldia3" Content="Esaldia 3" IsEnabled="False" HorizontalAlignment="Left" Height="34" Margin="498,142,0,0" VerticalAlignment="Top" Width="126"/>
+        <Button x:Name="bt_esaldia2" Content="Esaldia 2" IsEnabled="False" HorizontalAlignment="Left" Height="34" Margin="338,142,0,0" VerticalAlignment="Top" Width="124"/>
+        <Button x:Name="bt_garbitu" Content="Garbitu" HorizontalAlignment="Left" Height="36" Margin="177,274,0,0" VerticalAlignment="Top" Width="446"/>
+        <Button x:Name="bt_irten" Content="Irten" HorizontalAlignment="Left" Height="36" Margin="177,329,0,0" VerticalAlignment="Top" Width="446"/>
+
+    </Grid>
+</Window>

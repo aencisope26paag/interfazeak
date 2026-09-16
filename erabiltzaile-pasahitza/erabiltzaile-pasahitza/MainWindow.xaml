@@ -1,0 +1,20 @@
+﻿<Window x:Class="erabiltzaile_pasahitza.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:erabiltzaile_pasahitza"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label x:Name="lb_erabiltzailea" Content="Erabiltzailea:" HorizontalAlignment="Left" Margin="202,146,0,0" VerticalAlignment="Top" Height="33" Width="80"/>
+        <Label x:Name="lb_pasahitza" Content="Pasahitza:" HorizontalAlignment="Left" Margin="202,0,0,0" VerticalAlignment="Center" Height="33" Width="80"/>
+        <TextBox x:Name="tb_erabiltzailea" HorizontalAlignment="Left" Height="33" Margin="296,146,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="136"/>
+        <PasswordBox x:Name="pb_pasahitza" HorizontalAlignment="Left" Height="33" Margin="296,0,0,0" VerticalAlignment="Center" Width="136" PasswordChar="*"/>
+        <Button x:Name="bt_onartu" Content="Onartu" HorizontalAlignment="Left" Height="32" Margin="143,264,0,0" VerticalAlignment="Top" Width="100" Click="bt_onartu_Click"/>
+        <Button x:Name="bt_garbitu" Content="Garbitu" HorizontalAlignment="Left" Height="32" Margin="296,264,0,0" VerticalAlignment="Top" Width="100" Click="bt_garbitu_Click"/>
+        <Button x:Name="bt_irten" Content="Irten" HorizontalAlignment="Left" Height="32" Margin="441,264,0,0" VerticalAlignment="Top" Width="100" Click="bt_irten_Click"/>
+        <Label x:Name="lb_mezua" Content="" HorizontalAlignment="Left" Margin="188,331,0,0" VerticalAlignment="Top" Width="316"/>
+
+    </Grid>
+</Window>

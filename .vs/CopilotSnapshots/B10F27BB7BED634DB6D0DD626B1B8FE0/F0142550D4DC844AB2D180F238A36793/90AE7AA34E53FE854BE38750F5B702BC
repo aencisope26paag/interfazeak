@@ -1,0 +1,26 @@
+﻿<Window x:Class="eragiketa.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:eragiketa"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="button_kalkulatu" Content="Kalkulatu" HorizontalAlignment="Left" Margin="291,335,0,0" VerticalAlignment="Top" Height="29" Width="64"/>
+        <Button x:Name="button_garbitu" Content="Garbitu" HorizontalAlignment="Left" Margin="405,335,0,0" VerticalAlignment="Top" Height="29" Width="57"/>
+        <Button x:Name="button_irten" Content="Irten" HorizontalAlignment="Left" Margin="516,335,0,0" VerticalAlignment="Top" Height="29" Width="50"/>
+        <Label x:Name="label_zenb1" HorizontalAlignment="Left" Margin="288,96,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label_zenb1_c" Content="Lehen zenbakia" HorizontalAlignment="Left" Margin="288,93,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label_zenb2" Content="Bigarren zenbakia" HorizontalAlignment="Left" Margin="288,135,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label_zenb3" Content="Hirugarren zenbakia" HorizontalAlignment="Left" Margin="288,176,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label_emaitz" Content="Emaitza" HorizontalAlignment="Left" Margin="288,270,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="textbox_lehen" HorizontalAlignment="Left" Margin="446,97,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="textbox_bigarren" HorizontalAlignment="Left" Margin="446,139,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="textbox_hirugarren" HorizontalAlignment="Left" Margin="446,180,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="textbox_emaitza" HorizontalAlignment="Left" Margin="446,274,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="label_zenb4" Content="Laugarren zenbakia" HorizontalAlignment="Left" Margin="288,218,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="textbox_laugarren" HorizontalAlignment="Left" Margin="446,222,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+
+    </Grid>
+</Window>
