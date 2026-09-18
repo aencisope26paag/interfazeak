@@ -92,11 +92,11 @@ namespace Esaldiak_kateatzea
         {
             if (string.IsNullOrEmpty(_acc))
             {
-                MessageBox.Show("No text concatenated yet.", "Batu", MessageBoxButton.OK, MessageBoxImage.Information);
+                MessageBox.Show("Testurik gabe konkatenatzeko.", "Batu", MessageBoxButton.OK, MessageBoxImage.Information);
                 return;
             }
 
-            MessageBox.Show(_acc, "Concatenated", MessageBoxButton.OK, MessageBoxImage.Information);
+            MessageBox.Show(_acc, "Konkatenatua", MessageBoxButton.OK, MessageBoxImage.Information);
         }
 
         private void BtGarbitu_Click(object sender, RoutedEventArgs e)

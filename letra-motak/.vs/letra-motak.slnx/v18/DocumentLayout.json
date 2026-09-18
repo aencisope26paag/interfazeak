@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Ander\\interfazeen-garapena\\interfazeak\\letra-motak\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{986EEDE7-8517-40EE-BCAE-FCFF4E0D045A}|letra-motak\\letra-motak.csproj|c:\\ander\\interfazeen-garapena\\interfazeak\\letra-motak\\letra-motak\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{986EEDE7-8517-40EE-BCAE-FCFF4E0D045A}|letra-motak\\letra-motak.csproj|solutionrelative:letra-motak\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{626FC3D7-3EA6-8B94-270E-504BF96DCC3C}|letra-motak\\letra-motak.csproj|c:\\ander\\interfazeen-garapena\\interfazeak\\letra-motak\\letra-motak\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{626FC3D7-3EA6-8B94-270E-504BF96DCC3C}|letra-motak\\letra-motak.csproj|solutionrelative:letra-motak\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{986EEDE7-8517-40EE-BCAE-FCFF4E0D045A}|letra-motak\\letra-motak.csproj|c:\\ander\\interfazeen-garapena\\interfazeak\\letra-motak\\letra-motak\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{986EEDE7-8517-40EE-BCAE-FCFF4E0D045A}|letra-motak\\letra-motak.csproj|solutionrelative:letra-motak\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{626FC3D7-3EA6-8B94-270E-504BF96DCC3C}|letra-motak\\letra-motak.csproj|c:\\ander\\interfazeen-garapena\\interfazeak\\letra-motak\\letra-motak\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{626FC3D7-3EA6-8B94-270E-504BF96DCC3C}|letra-motak\\letra-motak.csproj|solutionrelative:letra-motak\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -44,7 +44,7 @@
               "RelativeDocumentMoniker": "letra-motak\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Ander\\interfazeen-garapena\\interfazeak\\letra-motak\\letra-motak\\MainWindow.xaml.cs",
               "RelativeToolTip": "letra-motak\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-16T07:37:53.008Z",
               "EditorCaption": ""

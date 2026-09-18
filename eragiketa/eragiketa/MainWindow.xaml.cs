@@ -35,7 +35,7 @@ namespace eragiketa
             }
             else
             {
-                textbox_emaitza.Text = "Invalid input";
+                textbox_emaitza.Text = "Berriro saiatu";
             }
         }
 

@@ -71,7 +71,7 @@ namespace formulario_formula
 
         private void TextBox_TextChanged(object sender, TextChangedEventArgs e)
         {
-            // Intentionally left blank - no behavior required on text change for now.
+
         }
     }
 }

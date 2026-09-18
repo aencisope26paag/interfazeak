@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Ander\\interfazeen-garapena\\interfazeak\\erabiltzaile-pasahitza\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{863E6CB0-5F1C-288E-D2B1-18722783DE18}|erabiltzaile-pasahitza\\erabiltzaile-pasahitza.csproj|c:\\ander\\interfazeen-garapena\\interfazeak\\erabiltzaile-pasahitza\\erabiltzaile-pasahitza\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{863E6CB0-5F1C-288E-D2B1-18722783DE18}|erabiltzaile-pasahitza\\erabiltzaile-pasahitza.csproj|solutionrelative:erabiltzaile-pasahitza\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{863E6CB0-5F1C-288E-D2B1-18722783DE18}|erabiltzaile-pasahitza\\erabiltzaile-pasahitza.csproj|c:\\ander\\interfazeen-garapena\\interfazeak\\erabiltzaile-pasahitza\\erabiltzaile-pasahitza\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{863E6CB0-5F1C-288E-D2B1-18722783DE18}|erabiltzaile-pasahitza\\erabiltzaile-pasahitza.csproj|solutionrelative:erabiltzaile-pasahitza\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{863E6CB0-5F1C-288E-D2B1-18722783DE18}|erabiltzaile-pasahitza\\erabiltzaile-pasahitza.csproj|c:\\ander\\interfazeen-garapena\\interfazeak\\erabiltzaile-pasahitza\\erabiltzaile-pasahitza\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{863E6CB0-5F1C-288E-D2B1-18722783DE18}|erabiltzaile-pasahitza\\erabiltzaile-pasahitza.csproj|solutionrelative:erabiltzaile-pasahitza\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,7 +26,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Ander\\interfazeen-garapena\\interfazeak\\erabiltzaile-pasahitza\\erabiltzaile-pasahitza\\MainWindow.xaml",
               "RelativeDocumentMoniker": "erabiltzaile-pasahitza\\MainWindow.xaml",
@@ -38,13 +38,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Ander\\interfazeen-garapena\\interfazeak\\erabiltzaile-pasahitza\\erabiltzaile-pasahitza\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "erabiltzaile-pasahitza\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Ander\\interfazeen-garapena\\interfazeak\\erabiltzaile-pasahitza\\erabiltzaile-pasahitza\\MainWindow.xaml.cs",
               "RelativeToolTip": "erabiltzaile-pasahitza\\MainWindow.xaml.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAlwDQAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADQAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-14T08:35:48.554Z",
               "EditorCaption": ""

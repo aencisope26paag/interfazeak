@@ -7,6 +7,19 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
+        <Button x:Name="bt_comic" Content="Comic Sans" HorizontalAlignment="Left" Height="36" Margin="60,62,0,0" VerticalAlignment="Top" Width="104" Click="bt_comic_Click"/>
+        <Button x:Name="bt_lodia" Content="Lodia" HorizontalAlignment="Left" Height="36" Margin="254,62,0,0" VerticalAlignment="Top" Width="104" Click="bt_lodia_Click"/>
+        <Button x:Name="bt_marratua" Content="Marratua" HorizontalAlignment="Left" Height="36" Margin="449,62,0,0" VerticalAlignment="Top" Width="104" Click="bt_marratua_Click"/>
+        <Button x:Name="bt_tamaina1" Content="+Tamaina" HorizontalAlignment="Left" Height="36" Margin="629,62,0,0" VerticalAlignment="Top" Width="104" Click="bt_tamaina1_Click"/>
+        <Button x:Name="bt_courier" Content="Courier" HorizontalAlignment="Left" Height="36" Margin="60,123,0,0" VerticalAlignment="Top" Width="104" Click="bt_courier_Click"/>
+        <Button x:Name="bt_etzaina" Content="Etzaina" HorizontalAlignment="Left" Height="36" Margin="254,123,0,0" VerticalAlignment="Top" Width="104" Click="bt_etzaina_Click"/>
+        <Button x:Name="bt_azpimarrat" Content="Azpimarratua" HorizontalAlignment="Left" Height="36" Margin="449,123,0,0" VerticalAlignment="Top" Width="104" Click="bt_azpimarrat_Click"/>
+        <Button x:Name="bt_tamaina2" Content="-Tamaina" HorizontalAlignment="Left" Height="36" Margin="629,123,0,0" VerticalAlignment="Top" Width="104" Click="bt_tamaina2_Click"/>
+        <TextBox x:Name="tb_testua" HorizontalAlignment="Left" Height="154" Margin="60,192,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="426"/>
+        <Button x:Name="bt_hautatu" Content="Hautatu" HorizontalAlignment="Left" Height="33" Margin="553,217,0,0" VerticalAlignment="Top" Width="148" Click="bt_hautatu_Click"/>
+        <Button x:Name="bt_irten" Content="Irten" HorizontalAlignment="Left" Height="33" Margin="553,283,0,0" VerticalAlignment="Top" Width="148" Click="bt_irten_Click"/>
+        <Label x:Name="lb_mezua" Content="" HorizontalAlignment="Left" Height="40" Margin="142,370,0,0" VerticalAlignment="Top" Width="485"/>
+        <Label x:Name="titulua" Content="PROBAKO TESTUA" HorizontalAlignment="Center" Height="35" Margin="0,10,0,0" VerticalAlignment="Top" Width="172" FontSize="20"/>
 
     </Grid>
 </Window>
