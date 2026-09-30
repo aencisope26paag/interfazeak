@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Ander\\interfazeen-garapena\\interfazeak\\egitura-aldagai-orokorrak\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CFD51B2-2F47-17E7-9391-BB6E6CDC9BF2}|egitura-aldagai-orokorrak\\egitura-aldagai-orokorrak.csproj|c:\\ander\\interfazeen-garapena\\interfazeak\\egitura-aldagai-orokorrak\\egitura-aldagai-orokorrak\\bistaratuleihoa.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CFD51B2-2F47-17E7-9391-BB6E6CDC9BF2}|egitura-aldagai-orokorrak\\egitura-aldagai-orokorrak.csproj|solutionrelative:egitura-aldagai-orokorrak\\bistaratuleihoa.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CFD51B2-2F47-17E7-9391-BB6E6CDC9BF2}|egitura-aldagai-orokorrak\\egitura-aldagai-orokorrak.csproj|c:\\ander\\interfazeen-garapena\\interfazeak\\egitura-aldagai-orokorrak\\egitura-aldagai-orokorrak\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CFD51B2-2F47-17E7-9391-BB6E6CDC9BF2}|egitura-aldagai-orokorrak\\egitura-aldagai-orokorrak.csproj|solutionrelative:egitura-aldagai-orokorrak\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CFD51B2-2F47-17E7-9391-BB6E6CDC9BF2}|egitura-aldagai-orokorrak\\egitura-aldagai-orokorrak.csproj|c:\\ander\\interfazeen-garapena\\interfazeak\\egitura-aldagai-orokorrak\\egitura-aldagai-orokorrak\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4CFD51B2-2F47-17E7-9391-BB6E6CDC9BF2}|egitura-aldagai-orokorrak\\egitura-aldagai-orokorrak.csproj|solutionrelative:egitura-aldagai-orokorrak\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CFD51B2-2F47-17E7-9391-BB6E6CDC9BF2}|egitura-aldagai-orokorrak\\egitura-aldagai-orokorrak.csproj|c:\\ander\\interfazeen-garapena\\interfazeak\\egitura-aldagai-orokorrak\\egitura-aldagai-orokorrak\\globalak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CFD51B2-2F47-17E7-9391-BB6E6CDC9BF2}|egitura-aldagai-orokorrak\\egitura-aldagai-orokorrak.csproj|solutionrelative:egitura-aldagai-orokorrak\\globalak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CFD51B2-2F47-17E7-9391-BB6E6CDC9BF2}|egitura-aldagai-orokorrak\\egitura-aldagai-orokorrak.csproj|c:\\ander\\interfazeen-garapena\\interfazeak\\egitura-aldagai-orokorrak\\egitura-aldagai-orokorrak\\bistaratuleihoa.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4CFD51B2-2F47-17E7-9391-BB6E6CDC9BF2}|egitura-aldagai-orokorrak\\egitura-aldagai-orokorrak.csproj|solutionrelative:egitura-aldagai-orokorrak\\bistaratuleihoa.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BistaratuLeihoa.xaml.cs",
+              "DocumentMoniker": "C:\\Ander\\interfazeen-garapena\\interfazeak\\egitura-aldagai-orokorrak\\egitura-aldagai-orokorrak\\BistaratuLeihoa.xaml.cs",
+              "RelativeDocumentMoniker": "egitura-aldagai-orokorrak\\BistaratuLeihoa.xaml.cs",
+              "ToolTip": "C:\\Ander\\interfazeen-garapena\\interfazeak\\egitura-aldagai-orokorrak\\egitura-aldagai-orokorrak\\BistaratuLeihoa.xaml.cs",
+              "RelativeToolTip": "egitura-aldagai-orokorrak\\BistaratuLeihoa.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T08:07:20.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BistaratuLeihoa.xaml",
+              "DocumentMoniker": "C:\\Ander\\interfazeen-garapena\\interfazeak\\egitura-aldagai-orokorrak\\egitura-aldagai-orokorrak\\BistaratuLeihoa.xaml",
+              "RelativeDocumentMoniker": "egitura-aldagai-orokorrak\\BistaratuLeihoa.xaml",
+              "ToolTip": "C:\\Ander\\interfazeen-garapena\\interfazeak\\egitura-aldagai-orokorrak\\egitura-aldagai-orokorrak\\BistaratuLeihoa.xaml",
+              "RelativeToolTip": "egitura-aldagai-orokorrak\\BistaratuLeihoa.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-09-28T08:07:09.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Globalak.cs",
+              "DocumentMoniker": "C:\\Ander\\interfazeen-garapena\\interfazeak\\egitura-aldagai-orokorrak\\egitura-aldagai-orokorrak\\Globalak.cs",
+              "RelativeDocumentMoniker": "egitura-aldagai-orokorrak\\Globalak.cs",
+              "ToolTip": "C:\\Ander\\interfazeen-garapena\\interfazeak\\egitura-aldagai-orokorrak\\egitura-aldagai-orokorrak\\Globalak.cs",
+              "RelativeToolTip": "egitura-aldagai-orokorrak\\Globalak.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T08:02:53.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Ander\\interfazeen-garapena\\interfazeak\\egitura-aldagai-orokorrak\\egitura-aldagai-orokorrak\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "egitura-aldagai-orokorrak\\MainWindow.xaml",
+              "ToolTip": "C:\\Ander\\interfazeen-garapena\\interfazeak\\egitura-aldagai-orokorrak\\egitura-aldagai-orokorrak\\MainWindow.xaml",
+              "RelativeToolTip": "egitura-aldagai-orokorrak\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-09-25T11:36:05.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Ander\\interfazeen-garapena\\interfazeak\\egitura-aldagai-orokorrak\\egitura-aldagai-orokorrak\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "egitura-aldagai-orokorrak\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Ander\\interfazeen-garapena\\interfazeak\\egitura-aldagai-orokorrak\\egitura-aldagai-orokorrak\\MainWindow.xaml.cs",
+              "RelativeToolTip": "egitura-aldagai-orokorrak\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T11:36:05.061Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
