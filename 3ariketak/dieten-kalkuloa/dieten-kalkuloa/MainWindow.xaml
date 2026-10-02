@@ -5,8 +5,33 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:dieten_kalkuloa"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <Grid>
+        Title="MainWindow" Height="410" Width="800">
+    <Grid KeyDown="Grid_KeyDown">
+        <Rectangle HorizontalAlignment="Left" Height="117" Margin="67,44,0,0" Stroke="Black" VerticalAlignment="Top" Width="123"/>
+        <Label x:Name="lb_dietak" Content="Dietak" HorizontalAlignment="Left" Margin="82,28,0,0" VerticalAlignment="Top" FontSize="16" Background="White"/>
+        <CheckBox x:Name="cb_gosaria" Content="Gosaria" HorizontalAlignment="Left" Margin="82,67,0,0" VerticalAlignment="Top" FontSize="16" Checked="kalkulatu" Unchecked="kalkulatu"/>
+        <CheckBox x:Name="cb_bazkaria" Content="Bazkaria" HorizontalAlignment="Left" Margin="82,98,0,0" VerticalAlignment="Top" FontSize="16" Checked="kalkulatu" Unchecked="kalkulatu"/>
+        <CheckBox x:Name="cb_afaria" Content="Afaria" HorizontalAlignment="Left" Margin="82,128,0,0" VerticalAlignment="Top" FontSize="16" Checked="kalkulatu" Unchecked="kalkulatu"/>
+        <Rectangle HorizontalAlignment="Left" Height="117" Margin="284,44,0,0" Stroke="Black" VerticalAlignment="Top" Width="181"/>
+        <Label x:Name="lb_bidaiak" Content="Bidaiak" HorizontalAlignment="Left" Margin="300,28,0,0" VerticalAlignment="Top" FontSize="16" Background="White"/>
+        <Rectangle HorizontalAlignment="Left" Height="117" Margin="543,44,0,0" Stroke="Black" VerticalAlignment="Top" Width="191"/>
+        <Label x:Name="lb_lana" Content="Lana" HorizontalAlignment="Left" Margin="558,28,0,0" VerticalAlignment="Top" FontSize="16" Background="White"/>
+        <Label Content="Km" HorizontalAlignment="Left" Height="35" Margin="300,67,0,0" VerticalAlignment="Top" Width="47" FontSize="16"/>
+        <TextBox x:Name="tb_b_km" HorizontalAlignment="Left" Margin="347,71,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="100" Height="28" FontSize="16" TextChanged="kalkulatu"/>
+        <Label Content="Orduak" HorizontalAlignment="Left" Height="35" Margin="300,106,0,0" VerticalAlignment="Top" Width="61" FontSize="16"/>
+        <TextBox x:Name="tb_b_o" HorizontalAlignment="Left" Margin="375,110,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="72" Height="28" FontSize="16" TextChanged="kalkulatu"/>
+        <Label Content="Orduak" HorizontalAlignment="Left" Height="35" Margin="563,67,0,0" VerticalAlignment="Top" Width="62" FontSize="16"/>
+        <TextBox x:Name="tb_l_o" HorizontalAlignment="Left" Margin="639,71,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="72" Height="28" FontSize="16" TextChanged="kalkulatu"/>
+        <Separator HorizontalAlignment="Left" Height="28" Margin="82,179,0,0" VerticalAlignment="Top" Width="629" FontSize="16" FontWeight="Bold"/>
+        <TextBox Focusable="False" IsTabStop="False" x:Name="tb_1" HorizontalAlignment="Left" Height="27" Margin="109,217,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="108" FontSize="16"/>
+        <TextBox Focusable="False" IsTabStop="False" x:Name="tb_2" HorizontalAlignment="Center" Height="27" Margin="0,217,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="108" FontSize="16"/>
+        <TextBox Focusable="False" IsTabStop="False" x:Name="tb_3" HorizontalAlignment="Left" Height="27" Margin="594,217,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="108" FontSize="16"/>
+        <Separator HorizontalAlignment="Left" Height="28" Margin="82,254,0,0" VerticalAlignment="Top" Width="629" FontSize="16" FontWeight="Bold"/>
+        <Button x:Name="bt_garbitu" Content="Garbitu" HorizontalAlignment="Left" Height="33" Margin="82,299,0,0" VerticalAlignment="Top" Width="124" FontSize="16" Click="bt_garbitu_Click"/>
+        <Button x:Name="bt_irten" Content="Irten" HorizontalAlignment="Left" Height="33" Margin="268,299,0,0" VerticalAlignment="Top" Width="124" FontSize="16" Click="bt_irten_Click"/>
+        <Label x:Name="lb_guztira" Content="GUZTIRA" HorizontalAlignment="Left" Height="36" Margin="437,293,0,0" VerticalAlignment="Top" Width="121" FontSize="24" FontWeight="Bold"/>
+        <TextBox Focusable="False" x:Name="tb_guztira" HorizontalAlignment="Left" Height="30" Margin="594,299,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="123" FontSize="16" Background="#FFCAEDFF" VerticalContentAlignment="Center"/>
+
 
     </Grid>
 </Window>

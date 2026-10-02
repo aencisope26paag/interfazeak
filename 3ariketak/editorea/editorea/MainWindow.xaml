@@ -1,0 +1,30 @@
+﻿<Window x:Class="dieten_kalkuloa.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Testu Editorea" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Menu Grid.Row="0" FontSize="14" Background="#F0F0F0">
+            <MenuItem Header="Fitxategia"/>
+            <MenuItem Header="Editatu">
+                <MenuItem Header="Moztu" InputGestureText="Ctrl+X" Click="moztu_Click"/>
+                <MenuItem Header="Kopiatu" InputGestureText="Ctrl+C" Click="kopiatu_Click"/>
+                <MenuItem Header="Itsasi" InputGestureText="Ctrl+V" Click="itsasi_Click"/>
+                <Separator/>
+                <MenuItem Header="Ezabatu" InputGestureText="Supr" Click="ezabatu_Click"/>
+            </MenuItem>
+            <MenuItem Header="Iturria">
+                <MenuItem Header="Arial" Click="fontArial_Click"/>
+                <MenuItem Header="Courier" Click="fontCourier_Click"/>
+                <MenuItem Header="Impact" Click="fontImpact_Click"/>
+                <MenuItem Header="Symbol" Click="fontSymbol_Click"/>
+            </MenuItem>
+        </Menu>
+        <TextBox x:Name="txtEditor" Grid.Row="1" AcceptsReturn="True" AcceptsTab="True" 
+                 TextWrapping="Wrap" VerticalScrollBarVisibility="Auto" FontSize="16" Margin="5"/>
+    </Grid>
+</Window>

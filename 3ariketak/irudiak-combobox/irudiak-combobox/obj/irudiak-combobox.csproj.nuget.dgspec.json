@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Ander\\interfazeen-garapena\\interfazeak\\irudiak-combobox\\irudiak-combobox\\irudiak-combobox.csproj": {}
+    "C:\\Ander\\interfazeen-garapena\\interfazeak\\3ariketak\\irudiak-combobox\\irudiak-combobox\\irudiak-combobox.csproj": {}
   },
   "projects": {
-    "C:\\Ander\\interfazeen-garapena\\interfazeak\\irudiak-combobox\\irudiak-combobox\\irudiak-combobox.csproj": {
+    "C:\\Ander\\interfazeen-garapena\\interfazeak\\3ariketak\\irudiak-combobox\\irudiak-combobox\\irudiak-combobox.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Ander\\interfazeen-garapena\\interfazeak\\irudiak-combobox\\irudiak-combobox\\irudiak-combobox.csproj",
+        "projectUniqueName": "C:\\Ander\\interfazeen-garapena\\interfazeak\\3ariketak\\irudiak-combobox\\irudiak-combobox\\irudiak-combobox.csproj",
         "projectName": "irudiak-combobox",
-        "projectPath": "C:\\Ander\\interfazeen-garapena\\interfazeak\\irudiak-combobox\\irudiak-combobox\\irudiak-combobox.csproj",
+        "projectPath": "C:\\Ander\\interfazeen-garapena\\interfazeak\\3ariketak\\irudiak-combobox\\irudiak-combobox\\irudiak-combobox.csproj",
         "packagesPath": "C:\\Users\\ik012982i18\\.nuget\\packages\\",
-        "outputPath": "C:\\Ander\\interfazeen-garapena\\interfazeak\\irudiak-combobox\\irudiak-combobox\\obj\\",
+        "outputPath": "C:\\Ander\\interfazeen-garapena\\interfazeak\\3ariketak\\irudiak-combobox\\irudiak-combobox\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ik012982i18\\AppData\\Roaming\\NuGet\\NuGet.Config",

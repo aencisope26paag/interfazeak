@@ -6,7 +6,9 @@
     <RootNamespace>dieten_kalkuloa</RootNamespace>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-    <UseWPF>true</UseWPF>
+	  <UseWPF>true</UseWPF>
   </PropertyGroup>
+	
+	
 
 </Project>

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Ander\\interfazeen-garapena\\interfazeak\\dieten-kalkuloa\\dieten-kalkuloa\\dieten-kalkuloa.csproj",
+      "projectUniqueName": "C:\\Ander\\interfazeen-garapena\\interfazeak\\3ariketak\\dieten-kalkuloa\\dieten-kalkuloa\\dieten-kalkuloa.csproj",
       "projectName": "dieten-kalkuloa",
-      "projectPath": "C:\\Ander\\interfazeen-garapena\\interfazeak\\dieten-kalkuloa\\dieten-kalkuloa\\dieten-kalkuloa.csproj",
+      "projectPath": "C:\\Ander\\interfazeen-garapena\\interfazeak\\3ariketak\\dieten-kalkuloa\\dieten-kalkuloa\\dieten-kalkuloa.csproj",
       "packagesPath": "C:\\Users\\ik012982i18\\.nuget\\packages\\",
-      "outputPath": "C:\\Ander\\interfazeen-garapena\\interfazeak\\dieten-kalkuloa\\dieten-kalkuloa\\obj\\",
+      "outputPath": "C:\\Ander\\interfazeen-garapena\\interfazeak\\3ariketak\\dieten-kalkuloa\\dieten-kalkuloa\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ik012982i18\\AppData\\Roaming\\NuGet\\NuGet.Config",
